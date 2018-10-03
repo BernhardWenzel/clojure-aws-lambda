@@ -1,6 +1,6 @@
 # Using Clojure on AWS Lambda
 
-Source code for tutorial that can be found at [https://bernhardwenzel.com/articles/clojure-aws-lambda](https://bernhardwenzel.com/articles/clojure-aws-lambda)
+Source code for tutorial that can be found at [https://bernhardwenzel.com/articles/using-clojure-with-aws-lambda](https://bernhardwenzel.com/articles/using-clojure-with-aws-lambda)
 
 
 ## License
