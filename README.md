@@ -1,14 +1,11 @@
-# clojure-aws-lambda
+# Using Clojure on AWS Lambda
 
-A Clojure library designed to ... well, that part is up to you.
+Source code for tutorial that can be found at [https://bernhardwenzel.com/articles/clojure-aws-lambda](https://bernhardwenzel.com/articles/clojure-aws-lambda)
 
-## Usage
-
-FIXME
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 Bernhard Wenzel
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
